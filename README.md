@@ -34,9 +34,7 @@ To use this submodule, follow the instructions below.
     git add <submodule-path>
     git commit -m "[WHERE]:[ACTION]:[DESCRIPTION]"
     git push origin master
-
-# OUR REPOS
-
+# THE CODE REPOSITORIES
 ### AI-v1
 Latest Version: 1.0.0
 #### How to Run?
