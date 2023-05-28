@@ -35,14 +35,30 @@ To use this submodule, follow the instructions below.
     git commit -m "[WHERE]:[ACTION]:[DESCRIPTION]"
     git push origin master
 # THE CODE REPOSITORIES
-### AI-v1
-Latest Version: 1.0.0
-#### How to Run?
+## AI-v1
++ Latest Release: 1.0.0
 
-### Firmware-v3
-Latest Version: 3.0.0
-#### How to Run?
++ [inverte-ai-v1](https://github.com/jarco0204/inverte-ai-v1)
 
-### Serverless-v1
-Latest Version: 1.0.0
-#### How to Run?
+# Getting Started
+To use this *Python/Jupyter* Repository, follow the instructions below.
+
+### Installation: 
+
+## Firmware-v3
++ Latest Release: 3.0.0
+
++ [inverte-firmware-v3](https://github.com/jarco0204/inverte-firmware-v3)
+# Getting Started
+To use this *C++* Repository, follow the instructions below.
+
+### Installation: 
+
+## Serverless-v1
++ Latest Release: 1.0.0
+
++ [inverte-serverless-v1](https://github.com/jarco0204/inverte-serverless-v1)
+# Getting Started
+
+To use this *JS* Repository, follow the instructions below.
+### Installation: 
