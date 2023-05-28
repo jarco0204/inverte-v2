@@ -61,12 +61,12 @@ To use this *Python/Jupyter* Repository, follow the instructions below.
 
 ## Firmware-v3
 + Latest Release: 3.0.0
+# Getting Started
+To use this *C++* & *Arduino* Repository, follow the Documentation below:
 
 + [inverte-firmware-v3](https://github.com/jarco0204/inverte-firmware-v3)
-# Getting Started
-To use this *C++* Repository, follow the instructions below.
 
-### Installation: 
++ [inverte-firmware-v3 Documentation](https://www.notion.so/inverte-ai/Firmware-cd5e2b6e5b6c4b9399aa28c4a36be48a?pvs=4)
 
 ## Serverless-v1
 + Latest Release: 1.0.0
