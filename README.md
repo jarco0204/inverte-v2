@@ -76,3 +76,4 @@ To use this *C++* & *Arduino* Repository, follow the Documentation below:
 
 To use this *JS* Repository, follow the instructions below.
 ### Installation: 
+• This is the set of lambdas that allow us to talk to our serverless API hosted in AWS Lambda, API Gateway & DynamoDB.
