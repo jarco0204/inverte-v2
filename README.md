@@ -44,6 +44,20 @@ To use this submodule, follow the instructions below.
 To use this *Python/Jupyter* Repository, follow the instructions below.
 
 ### Installation: 
+• Make sure you have *Miniconda* installed in your machine to begin environment with correct versions.
+
+### Running Scripts: 
++ *Windows*: Make sure you have GitBash enabled in your machine.
+
++ *Mac*: Open Terminal (Unix-based)
+
+1. Update permissions of script with:
+    ```shell
+    chmod +x NAME_SCRIPT_HERE.sh
+
+2. Run the script with:
+     ```shell
+    ./NAME_SCRIPT_HERE.sh
 
 ## Firmware-v3
 + Latest Release: 3.0.0
