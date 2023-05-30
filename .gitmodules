@@ -7,3 +7,6 @@
 [submodule "inverte-ai-v1"]
 	path = inverte-ai-v1
 	url = https://github.com/jarco0204/inverte-ai-v1.git
+[submodule "inverte-firmware-v4"]
+	path = inverte-firmware-v4
+	url = https://github.com/jarco0204/inverte-firmware-v4.git
