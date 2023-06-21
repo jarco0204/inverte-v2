@@ -10,3 +10,6 @@
 [submodule "inverte-firmware-v4"]
 	path = inverte-firmware-v4
 	url = https://github.com/jarco0204/inverte-firmware-v4.git
+[submodule "inverte-client-v2"]
+	path = inverte-client-v2
+	url = https://github.com/jarco0204/inverte-client-v2.git
