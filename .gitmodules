@@ -1,6 +1,3 @@
-[submodule "inverte-firmware-v3"]
-	path = inverte-firmware-v3
-	url = https://github.com/jarco0204/inverte-firmware-v3.git
 [submodule "inverte-serverless-v1"]
 	path = inverte-serverless-v1
 	url = https://github.com/jarco0204/inverte-serverless-v1.git
